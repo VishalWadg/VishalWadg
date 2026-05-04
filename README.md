@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalWadg&show_icons=true&theme=default&hide_border=true)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalWadg&show_icons=true&theme=default&hide_border=true&decoding="async"&loading="lazy")
 
 ---
 
