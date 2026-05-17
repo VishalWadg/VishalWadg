@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalWadg&show_icons=true&theme=default&hide_border=true")
-
----
-
-## Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalWadg&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishalwadgaonkar)
