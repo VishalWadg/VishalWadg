@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Graduate (2025) from Pune, Maharashtra  
 💻 Full Stack Developer — Java · Spring Boot · React.js · TypeScript  
-🔭 Currently building real-world projects and looking for my first dev role  
+🔭 Currently building real-world projects  
 📫 Reach me: wadgaonkarvishal54@gmail.com  
 
 ---
