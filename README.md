@@ -42,6 +42,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishalwadgaonkar)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:wadgaonkarvishal54@gmail.com)
 
----
-
-*Open to Junior Developer, Full Stack, and Java Backend roles in Maharashtra and remote positions.*
