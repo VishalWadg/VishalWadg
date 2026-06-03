@@ -37,6 +37,13 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VishalWadg/VishalWadg/output/github-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/VishalWadg/VishalWadg/output/github-snake.svg">
+</picture>
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishalwadgaonkar)
