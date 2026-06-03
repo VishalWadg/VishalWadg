@@ -1,3 +1,5 @@
+name: Generate Snake Animation
+
 on:
   schedule:
     # Runs automatically every 12 hours
@@ -9,6 +11,8 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write # CRITICAL FIX: Allows the runner to push to the output branch
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
