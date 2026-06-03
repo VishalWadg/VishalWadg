@@ -81,13 +81,8 @@ Currently shipping two projects from scratch while learning Docker and cloud dep
 ## GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalWadg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/VishalWadg)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalWadg&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/VishalWadg)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalWadg&theme=tokyonight" />
 </div>
-
 ---
 
 <div align="center">
