@@ -1,15 +1,12 @@
-# Hi, I'm Vishal Wadgaonkar
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Wadgaonkar&fontSize=45&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descColor=fff&descAlignY=58)
 
-**Full-Stack Developer · Computer Engineering Graduate (2025)**  
-Pune, Maharashtra, India · wadgaonkarvishal54@gmail.com
-
----
-
-## About Me
-
-I'm a backend-leaning full-stack developer who builds systems that go beyond CRUD tutorials.  
-I enjoy understanding how things actually work — email delivery protocols, real-time messaging, service decoupling — and turning that understanding into working software.  
-Currently shipping two projects from scratch while learning Docker and cloud deployment.
+# Hi, I'm Vishal 👋
+ 
+Full-stack developer who enjoys building things with Java, Spring Boot, and React.
+ 
+Currently building [Aniverse](https://github.com/VishalWadg/Aniverse) and [TempMail](https://github.com/VishalWadg/Tempmail)  
+Learning Docker, GitHub Actions CI/CD, and OAuth 2.0  
+Pune, Maharashtra, India
 
 ---
 
