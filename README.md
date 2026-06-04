@@ -1,7 +1,6 @@
 # Hi, I'm Vishal Wadgaonkar
 
 **Full-Stack Developer · Computer Engineering Graduate (2025)**  
-Open to Junior Java / Spring Boot / Full-Stack roles  
 Pune, Maharashtra, India · wadgaonkarvishal54@gmail.com
 
 ---
