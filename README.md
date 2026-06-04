@@ -1,12 +1,14 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Wadgaonkar&fontSize=45&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descColor=fff&descAlignY=58)
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vishal%20Wadgaonkar&fontSize=45&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=18&descColor=fff&descAlignY=58"
+ width="100%"
+ />
 
 # Hi, I'm Vishal 👋
  
 Full-stack developer who enjoys building things with Java, Spring Boot, and React.
  
-Currently building [Aniverse](https://github.com/VishalWadg/Aniverse) and [TempMail](https://github.com/VishalWadg/Tempmail)  
-Learning Docker, GitHub Actions CI/CD, and OAuth 2.0  
-Pune, Maharashtra, India
+- Currently building [Aniverse](https://github.com/VishalWadg/Aniverse) and [TempMail](https://github.com/VishalWadg/Tempmail)  
+- Learning Docker, GitHub Actions CI/CD, and OAuth 2.0  
+- Pune, Maharashtra, India
 
 ---
 
@@ -77,7 +79,7 @@ Pune, Maharashtra, India
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalWadg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishalWadg&theme=tokyonight" width="100%" />
 </div>
 
 ---
@@ -99,3 +101,5 @@ Pune, Maharashtra, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalwadgaonkar)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wadgaonkarvishal54@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
